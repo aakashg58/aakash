@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Aakash Gautam"
 title_separator          : "-"
 name                     : &name "Aakash Gautam"
-description              : &description "Ph.D. candidate at Virginia Tech <br/>Currently in the job market<br/>Looking for an academic research position."
-url                      : https://aakashg58.github.io/aakash.github.io/
+description              : &description "Ph.D. candidate at Virginia Tech <br/>Currently in the job market. <br/> Looking for an academic research position."
+url                      : https://aakashg58.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aakashg58/aakash.github.io"
+repository               : "aakashg58/aakashg58.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aakash Gautam"
   avatar           : "profile.png"
-  bio              : "HCI researcher interested in equality, power, and social justice"
+  bio              : "HCI researcher dedicated to realizing an inclusive and just society. <br/>Currently in the job market; looking for an academic research position. <br/> HCI4D/ICTD and learning sciences."
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8023-4648"
+  orcid            : #"https://orcid.org/0000-0001-8023-4648"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
