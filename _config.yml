@@ -11,7 +11,7 @@ title                    : "Aakash Gautam"
 title_separator          : "-"
 name                     : &name "Aakash Gautam"
 description              : &description "Ph.D. candidate at Virginia Tech <br/>Currently in the job market. <br/> Looking for an academic research position."
-url                      : https://aakashg58.github.io/
+url                      : https://aakashg58.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aakashg58/aakashg58.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+fatal: cannot do a partial commit during a merge.  wikipedia        :
 
 
 # Reading Files
@@ -128,7 +128,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
-  - .sass-cache
+  - .sass-cachefatal: cannot do a partial commit during a merge.
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -168,7 +168,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..6fatal: cannot do a partial commit during a merge.
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
