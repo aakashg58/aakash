@@ -114,7 +114,6 @@ author:
   weibo            :
   xing             :
   youtube          :
-fatal: cannot do a partial commit during a merge.  wikipedia        :
 
 
 # Reading Files
@@ -128,7 +127,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
-  - .sass-cachefatal: cannot do a partial commit during a merge.
+  - .sass-cache
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -168,7 +167,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6fatal: cannot do a partial commit during a merge.
+  toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
