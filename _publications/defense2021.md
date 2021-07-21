@@ -12,3 +12,5 @@ How might computer scientists work with communities in facilitating meaningful s
 
 
 A recording of the final presentation can be seen [here](https://youtu.be/gV0-JqEYosU)
+
+A PDF version of the slide deck that I used for the final presentation can be accessed [here](http://aakash.xyz/files/defense2021.pdf)
