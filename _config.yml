@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aakash Gautam"
 title_separator          : "-"
 name                     : &name "Aakash Gautam"
-description              : &description "Ph.D. candidate at Virginia Tech <br/>Currently in the job market. <br/> Looking for an academic research position."
+description              : &description "Assistant Professor in the Computer Science department at San Francisco State University<br/>"
 url                      : https://aakash.xyz
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aakashg58/aakashg58.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aakash Gautam"
   avatar           : "profile.png"
-  bio              : "HCI researcher dedicated to realizing an inclusive and just society. <br/>Currently in the job market; looking for an academic research position. <br/> HCI4D/ICTD and learning sciences."
-  location         : "Blacksburg, VA"
-  employer         : "Virginia Tech"
+  bio              : "HCI researcher dedicated to realizing an inclusive and just society. <br/> Research interests: Human-Computer Interaction (HCI), HCI4D/ICTD, learning sciences, community-based participatory action research"
+  location         : "San Francisco, CA"
+  employer         : "San Francisco State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b3DcFdsAAAAJ"
-  email            : "aakashg@vt.edu"
+  email            : "aakash@sfsu.edu"
   researchgate     :
   uri              :
   bitbucket        :
